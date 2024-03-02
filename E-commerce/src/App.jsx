@@ -17,7 +17,7 @@ const App = () => {
     <div className='text-4xl text-center text-cyan-50 text-nowrap'>App</div>
     <div className='text-4xl text-center text-cyan-50 text-nowrap'>App</div>
     <div className='text-4xl text-center text-cyan-50 text-nowrap'>App</div>
-    <div className='text-4xl text-center text-cyan-50 text-nowrap'>App</div>
+    {/* <div className='text-4xl text-center text-cyan-50 text-nowrap'>App</div>
   <div className='text-4xl text-center text-cyan-50 text-nowrap'>App</div>   <div className='text-4xl text-center text-cyan-50 text-nowrap'>App</div>
   <div className='text-4xl text-center text-cyan-50 text-nowrap'>App</div>
   <div className='text-4xl text-center text-cyan-50 text-nowrap'>App</div>
@@ -28,7 +28,7 @@ const App = () => {
   { <div className='text-4xl text-center text-cyan-50 text-nowrap'>App</div>
     <div className='text-4xl text-center text-cyan-50 text-nowrap'>App</div>
     <div className='text-4xl text-center text-cyan-50 text-nowrap'>App</div>
-    <div className='text-4xl text-center text-cyan-50 text-nowrap'>App</div>
+    <div className='text-4xl text-center text-cyan-50 text-nowrap'>App</div> */}
    </div>
  
   ) }
